@@ -1,0 +1,11 @@
+{
+  "name": "song-structure-db",
+  "version": "1.0.0",
+  "description": "classify song structures of popular songs as a tool for songwriters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakob Anderson",
+  "license": "GPL-3.0-or-later"
+}
